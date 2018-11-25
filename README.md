@@ -95,6 +95,9 @@ Import into your component
 ```js
 import { VueGoodTable } from 'vue-good-table';
 
+// import the styles 
+import 'vue-good-table/dist/vue-good-table.css'
+
 // add to component
 components: {
   VueGoodTable,
